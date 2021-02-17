@@ -1,16 +1,15 @@
-### Hi there 👋
+# Salut 👋 ! Je suis Nirbose !
+## 💻 Petit développer Web/bot discord.py
 
+J'aime apprendre et apprendre toujours plus !
+J'aime participer a des projets quels qu'ils soit.
 
-**Nirbose/Nirbose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mes compétences :
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- PHP
+- JS
+- HTML
+- CSS
+- PYTHON
+- NODEJS
 
