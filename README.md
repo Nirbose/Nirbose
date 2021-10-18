@@ -8,7 +8,7 @@
 
 [SpeakBar](https://speakbar.fr), Social network in php for fun.
 
-[Discord](https://discord.gg/zMcV4rzCbm), my Discord server.
+[Nirbose Server](https://discord.gg/zMcV4rzCbm), my Discord server.
 
 ## MY Statistics :
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Nirbose&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
