@@ -4,9 +4,6 @@
 - 🎨 Fan of drawings
 
 ## My Projects :
-[CoalStudio](https://coalstudio.fr), association in video games.
-
-[Nirbose.fr](https://nirbose.fr), Social network in php for fun.
 
 [Nirbose Server](https://discord.gg/zMcV4rzCbm), my Discord server.
 
